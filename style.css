@@ -1,7 +1,6 @@
-@media (min-width: 412px) and (max-width: 914px) {}
 
 body{
-    
+
 }
 
 
@@ -82,3 +81,16 @@ display: flex;
 .last{
     padding: 70px;
 }
+
+
+
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+}
+@media screen and (max-width: 480px){
+    body{
+
+    }
+}    
+
